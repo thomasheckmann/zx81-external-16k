@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ZXINFO_SYMBOL")(type "KiCad")(uri "${KIPRJMOD}/ZXINFO_SYMBOL.kicad_sym")(options "")(descr ""))
+)
