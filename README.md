@@ -1,5 +1,5 @@
 # zx81-external-16k
-Simple external 16K RAM interface for the ZX81 with WRX compability. The interface for now is only using 16K from the 62256 memory chip, using the other half 16K might be added on later version.
+Simple and compact external 16K RAM interface for the ZX81 with WRX compability. The interface is made using THT components, making it easy for everyone to make. The interface for now is only using 16K from the 62256 memory chip, using the other half 16K might be added on later version. I might also consider making a SMD version, making it even smaller in size :-)
 
 | SCHEMA | PCB |
 | ------ | --- |
