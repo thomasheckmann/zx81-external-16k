@@ -14,5 +14,5 @@ The PCB arrived, so I populated it with some components (all written on the silk
 - 2 x Diode 1N14148
 - 74LS00
 - RAM 62256 or similar
-
+- ZX81 Edge Connector or my [ZX81 Bus Extender](https://github.com/thomasheckmann/zx81-bus-extender)
 NOTE: WRX hi-res, to get full support for hi-res WRX a cercamic capacitor is needed between PIN 20 (CS) and GND. In this build with a KM62256ALP-10 a 1nF ceramic capacitor should be fitted. 
