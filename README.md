@@ -29,13 +29,13 @@ A little prototypinh based on the v1.0 board - and yes, 32K from adress 16384 is
 [PICTURE]
 
 Programs tested with success so far:
-- Beamrider, 32K and WRX graphics
-- MaxDemo, 32K and WRX graphics (impressive 320x240 resolution)
-- Cross Snake, 32K and WRX
-- Cross Chase, 32K and WRX
-- Space-invaders, 32K and WRX
+- [Beamrider](https://problemkaputt.de/beamride.htm), 32K and WRX graphics 
+- [MaxDemo](https://demozoo.org/productions/159644/), 32K and WRX graphics (impressive 320x240 resolution)
+- [Cross Snake](https://github.com/Fabrizio-Caruso/CROSS-LIB/releases/tag/XSnake2.0), 32K and WRX
+- [Cross Chase](https://github.com/Fabrizio-Caruso/CROSS-LIB/releases/tag/WRX), 32K and WRX
+- [Space Invaders](https://splintergu.itch.io/space-invaders-for-zx81-wrx), 32K and WRX
 
 32K Programs NOT working:
-- Crystal Frog
+- [The Crystal Frog](https://www.sinclairzxworld.com/viewtopic.php?t=334)
 
 [PICTURE OF SCHEMA, PCB and Final build]
