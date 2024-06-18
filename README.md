@@ -25,7 +25,7 @@ The value for the capacitor for different 62256 SRAM chips tested with [STARFIGH
 
 - KM62256ALP-10, 1.2nF
 
-## version 1.1 - full 32K support
+## version 1.1 - full 32K support, with data in the 32-48K area.
 Most version for internal 32K RAM puts the extra 16K at the top, 48 to 64K - but this is not what most 32K program expects. The 32K programs I have found expect the 32K from 16K, which requires some extra logic - another issue with this configuration is that normaly the ROM is mirrored between 32 and 48K, which means the ROM has to be disabled when the ZX81 access this part of the memory. I also decided to change the diodes from 1N4148 to BAT85 as suggested in general for this type of usage.
 
 A little prototypinh based on the v1.0 board - and yes, 32K from adress 16384 is all good here tested with Beamrider that require 32K and WRX :-)
@@ -40,7 +40,7 @@ Programs tested with success so far:
 - [Cross Chase](https://github.com/Fabrizio-Caruso/CROSS-LIB/releases/tag/WRX), 32K and WRX
 - [Space Invaders](https://splintergu.itch.io/space-invaders-for-zx81-wrx), 32K and WRX
 
-32K Programs NOT working:
+32K Programs NOT working - as they require internal modification in order to run M/C above 32K area.
 - [The Crystal Frog](https://www.sinclairzxworld.com/viewtopic.php?t=334)
 
 [PICTURE OF SCHEMA, PCB and Final build]
