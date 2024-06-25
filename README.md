@@ -46,7 +46,7 @@ Programs tested with success so far:
 
 | <!---> | <!---> |
 | ------ | ------ |
-|<img width="500" src="https://github.com/thomasheckmann/zx81-external-16k/assets/14136378/cc751cdf-ddca-4291-aa99-5541b012a066">|<img width="500" src="https://github.com/thomasheckmann/zx81-external-16k/assets/14136378/14136378/569c9e7c-7caf-40ff-aa4d-caf7ddb274a7">|
+|<img width="500" src="https://github.com/thomasheckmann/zx81-external-16k/assets/14136378/cc751cdf-ddca-4291-aa99-5541b012a066">|<img width="500" src="https://github.com/thomasheckmann/zx81-external-16k/assets/14136378/36ffc1d7-7bf1-4760-bd7d-c64a76275ac7">|
 
 BOM for v1.1 (32K, continously from adress 16384)
 - LED 3mm
