@@ -10,6 +10,7 @@ The PCB arrived, so I populated it with some components (all written on the silk
 
 ![image](https://github.com/thomasheckmann/zx81-external-16k/assets/14136378/9aa3a963-2a5f-4a25-a5a8-68c8066c61e9)
 
+BOM for v1.0 (16K only)
 - LED 3mm
 - Resistor 470 Ohm
 - Resistor 4K7 Ohm
@@ -45,7 +46,7 @@ Programs tested with success so far:
 
 [PICTURE OF SCHEMA, PCB and Final build]
 
-BOM for v1.1
+BOM for v1.1 (32K, continously from adress 16384)
 - LED 3mm
 - Resistor 470 Ohm
 - Resistor 4K7 Ohm
