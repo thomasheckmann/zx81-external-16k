@@ -44,3 +44,21 @@ Programs tested with success so far:
 - [The Crystal Frog](https://www.sinclairzxworld.com/viewtopic.php?t=334)
 
 [PICTURE OF SCHEMA, PCB and Final build]
+
+BOM for v1.1
+- LED 3mm
+- Resistor 470 Ohm
+- Resistor 4K7 Ohm
+- Resistor 10K Ohm
+- 2 x Ceramic capacitor 100nF, P2,54
+- 1 x Ceramic capacitor 1,2nF, P2,54
+- 2 x Diode BAT85
+- 74LS00
+- 74LS32
+- RAM 62256 or similar
+- ZX81 Edge Connector or my [ZX81 Bus Extender](https://github.com/thomasheckmann/zx81-bus-extender)
+
+The interface has been tested with the following 32K SRAM chips, all running Beamrider perfectly.
+- UM62256E-70LL
+- HM62256BLP-10
+- AS6C62256-55PCN
