@@ -44,7 +44,9 @@ Programs tested with success so far:
 32K Programs NOT working - as they require internal modification in order to run M/C above 32K area.
 - [The Crystal Frog](https://www.sinclairzxworld.com/viewtopic.php?t=334)
 
-[PICTURE OF SCHEMA, PCB and Final build]
+| <!---> | <!---> |
+| ------ | ------ |
+|<img width="500" src="https://github.com/thomasheckmann/zx81-external-16k/assets/14136378/cc751cdf-ddca-4291-aa99-5541b012a066">|<img width="500" src="https://github.com/thomasheckmann/zx81-external-16k/assets/14136378/14136378/569c9e7c-7caf-40ff-aa4d-caf7ddb274a7">|
 
 BOM for v1.1 (32K, continously from adress 16384)
 - LED 3mm
