@@ -65,3 +65,8 @@ The interface has been tested with the following 32K SRAM chips, all running Bea
 - UM62256E-70LL
 - HM62256BLP-10
 - AS6C62256-55PCN
+
+### Test using SYSINFO.P v0.02
+This test program examines the memory configuration and reports this, 32K ram starting from address 0x4000 :-)
+
+![image](https://github.com/user-attachments/assets/fadee3b9-d033-4347-9d10-96aed8183f11)
